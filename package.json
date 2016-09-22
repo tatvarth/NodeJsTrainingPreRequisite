@@ -1,0 +1,33 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "A proxy server and an echo server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatvarth/NodeJsTrainingPreRequisite.git"
+  },
+  "author": "neha jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatvarth/NodeJsTrainingPreRequisite/issues"
+  },
+  "homepage": "https://github.com/tatvarth/NodeJsTrainingPreRequisite#readme",
+  "dependencies": {
+    "request": "^2.75.0",
+    "yargs": "^3.32.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "A",
+    "proxy",
+    "server",
+    "and",
+    "an",
+    "echo",
+    "server."
+  ]
+}
