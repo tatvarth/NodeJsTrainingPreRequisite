@@ -1,3 +1,11 @@
+# NodeSchool.io Workshoppers : Completed exercises in learnyounode module
+
+![Screenshot](learnyounode.png)
+
+# NodeSchool.io Workshoppers: Completed exercises in javascripting module
+
+![Screenshot](javascripting.png)
+
 # Proxy Server
 
 This is a Proxy Server for Node.js submitted as the [pre-work](http://courses.codepath.com/snippets/intro_to_nodejs/prework) requirement for CodePath.
@@ -18,11 +26,9 @@ Completed:
 * [] Optional: `-h` argument prints CLI API
 
 Walkthrough Gif:
-[Add walkthrough.gif to the project root]
 
 ![Video Walkthrough](walkthrough.gif)
 
-Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
 
 ## Starting the Server
 
