@@ -11,7 +11,7 @@ let port = argv.port || (host === localhost?8000:80);
 let destinationUrl = scheme+host+':'+port;
 
 let echoServer = http.createServer((req,res) => {
-  logStream.write('\nechoServer\n');
+ logStream.write('\nechoServer\n');
   for(let header in req.headers){
     res.setHeader(header,req.headers[header]);
   }
